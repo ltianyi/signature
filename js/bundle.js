@@ -77,7 +77,7 @@ function(t) {
     n.o = function(t, n) {
         return Object.prototype.hasOwnProperty.call(t, n)
     },
-    n.p = "./build/",
+    n.p = "./js/",
     n.oe = function(t) {
         throw console.error(t),
         t
